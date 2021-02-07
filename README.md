@@ -8,7 +8,7 @@ A website that offers users web accesibilty for buisnesses
 *CSS
 
 ## Website
-https://colenorthrop.github.io/horiseon1
+https://colenorthrop.github.io/horiseon
 
 ## Contribution
 Made with ❤️ by Horiseon
